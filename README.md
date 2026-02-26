@@ -58,9 +58,10 @@
 </p>
 
 ## 📊 GitHub Stats & Activity
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangeethrajiv&show_icons=true&theme=tokyonight&hide_border=true" alt="Sangeeth's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethrajiv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=sangeethrajiv&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethrajiv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <!-- Activity Graph -->

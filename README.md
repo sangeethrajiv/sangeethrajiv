@@ -62,4 +62,5 @@
 ### Links & Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeeth-r-7a68822b0/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Powered by Antigravity](https://img.shields.io/badge/Powered%20by-Antigravity%20AI-7B2FBE?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.dev)
 

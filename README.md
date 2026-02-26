@@ -61,7 +61,7 @@
 
 <p align="left">
   <img height="180em" src="https://streak-stats.demolab.com?user=sangeethrajiv&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethrajiv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangeethrajiv&theme=tokyonight" />
 </p>
 
 <!-- Activity Graph -->
